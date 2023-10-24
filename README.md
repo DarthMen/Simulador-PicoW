@@ -1,6 +1,6 @@
 # templete-picow
 Para trabajos de microcontroladores
-https://wokwi.com/projects/379440261275228161
+https://wokwi.com/projects/379512202156426241
 ```C
 /*
  * Nombre del Archivo: PicoW Simulado.c
@@ -14,7 +14,7 @@ https://wokwi.com/projects/379440261275228161
  *
  * Historial de Revisiones:
  * [23/10/2023]        [MIRANDA JUAREZ PAUL EMANUEL] - Creado
- * [Fecha]        [Tu Nombre] - Actualizado para añadir [característica/corrección]
+ * [24/10/2023]        [MIRANDA JUAREZ PAUL EMANUEL] - Corregido [característica/corrección]
  *
  */
 
@@ -35,6 +35,9 @@ int main() {
         sleep_ms(1000);
     }
 }
-
-
 ```
+
+# Evaluacion
+• 100% DEPOSTAR EL URL de su Wokwi funcionando Incluir el templete del código sin el no se recibirán las practicas.
+# Recursos
+1.- https://wokwi.com/projects/379512202156426241
