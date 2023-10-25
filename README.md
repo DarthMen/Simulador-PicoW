@@ -1,5 +1,5 @@
-# Trabajos Raspberry pi Pico
-3.1 Simulador PicoW  
+# Trabajos Raspberry Pi Pico
+# 3.1 Simulador PicoW  
 Para trabajos de microcontroladores  
 https://wokwi.com/projects/379512202156426241
 
